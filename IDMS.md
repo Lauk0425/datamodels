@@ -1,0 +1,3 @@
+# IDMS (Integrated Database Management System)
+[https://infocenter.informationbuilders.com/wf8004/index.jsp?topic=%2Fpubdocs%2FAdapter_Admin%2Fsource%2Ftopic137.htm](https://infocenter.informationbuilders.com/wf8004/index.jsp?topic=%2Fpubdocs%2FAdapter_Admin%2Fsource%2Ftopic137.htm)
+IDMS is a commerical based database that is sold by Broadcom Inc. IDMS utilizes a network modeling. IDMS can be hosted in many ways such as embedding, and allows users to host their own networko but does not support cloud. 
