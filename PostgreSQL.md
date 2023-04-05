@@ -1,3 +1,3 @@
 # PostgreSQL 
-[https://www.postgresql.org/](https://www.postgresql.org/)
-PostgreSQL is an open sourced database. 
+[https://www.postgresql.org/](https://www.postgresql.org/)    
+PostgreSQL is an open sourced database. PostgreSQL uses a relational data model. This database allows ebedding into Java application, cloud application is also avilable with using Cloud SQL from Cloud Shell and this database allows for self-hosting servers. To connect with python you would need to use an adapter called "psycopg2" and to connect with Java a JDBC driver would be needed. 
