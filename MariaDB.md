@@ -1,0 +1,3 @@
+# MariaDB
+[https://mariadb.org/#:~:text=MariaDB%20Server%20is%20one%20of,default%20in%20most%20Linux%20distributions.](https://mariadb.org/#:~:text=MariaDB%20Server%20is%20one%20of,default%20in%20most%20Linux%20distributions.)    
+MariaDB is an open source database that has a relational data model. The two main ways MariaDB is hosted is through embedding and cloud, MariaDB does not allow you to use your own network. Java can be accessed using a JDBC abd ysubg franewirjs sycg as JPA/ Hibernate and Python can be accessed using a MariaDB Connector using a PIP labeled as $ pip3 install mariadb. 
