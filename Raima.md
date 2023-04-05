@@ -1,0 +1,3 @@
+# Raima Database Manager 
+[https://raima.com/](https://raima.com/)      
+Raima Database is a commerical database that has a network model. Raima has a very limited amount of hosting options, the only option that Raima supports is embedding. To connect to Java within Raima you can use the JDBC 3.0 API Driver and I was unable to find infomration regarding Python so I believe Raima does not support this language. 

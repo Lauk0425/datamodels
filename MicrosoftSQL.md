@@ -1,0 +1,3 @@
+# Microsoft SQL Server
+[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)      
+Microsoft SQL Server is a commerical database platform, this database does offer a free entry level version. Microsoft SQL server is a relational database. This database supports a variety of differnt hosting options such as embedding, running on cloud and even setting up your own network. To connect Java to Microsoft SQL server you must download a Microsoft specific JDBC driver, and for python a pyodbc module and a ODBC driver is needed for connection. 
